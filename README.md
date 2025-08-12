@@ -11,7 +11,7 @@
 
 - 📫 How to reach me amashani2000@gmail.com
 
-![Amashani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amashania&show_icons=true&theme=transparent)
+![Amashani's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amashani&show_icons=true&theme=transparent)
  
 | ![Amashani's github stats](https://github-readme-stats.vercel.app/api?username=Amashani&show_icons=true&theme=tokyonight) | ![Amashani GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Amashani&theme=tokyonight) |
 | --- | --- |
